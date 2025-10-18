@@ -1,6 +1,6 @@
 [project]
-name = "my_pkg"
-version = "0.0.1"
+name = "test_pypi"
+version = "0.0.2"
 description = "一句话描述"
 readme = "README.md"
 requires-python = ">=3.8"
