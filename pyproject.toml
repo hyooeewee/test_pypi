@@ -1,10 +1,10 @@
 [project]
-name = "test-pypi"
-version = "0.0.3"
+name = "godot-pypi-test"
+version = "0.0.4"
 description = "一句话描述"
 readme = "README.md"
 requires-python = ">=3.8"
-authors = [{name = "Your Name", email = "you@example.com"}]
+authors = [{name = "hyooeewee", email = "hughie-ngai@outlook.com"}]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
